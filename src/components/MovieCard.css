@@ -1,0 +1,16 @@
+.movie-card {
+  list-style: none;
+}
+.link-no-underline {
+  text-decoration: none;
+  color: inherit;
+}
+.movie-img {
+  width: 100%;
+  border-radius: 8px;
+}
+.movie-title {
+  font-size: 1rem;
+  margin: 8px 0;
+  text-align: center;
+}

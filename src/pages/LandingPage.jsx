@@ -1,5 +1,11 @@
-function ______() {
-  return <h2>hOLSASS</h2>;
+import MovieGrid from "../components/MovieGrid";
+
+function LandingPage() {
+  return (
+    <div>
+      <MovieGrid />
+    </div>
+  );
 }
 
-export default ______;
+export default LandingPage;
