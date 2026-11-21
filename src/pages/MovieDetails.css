@@ -1,0 +1,15 @@
+.detailsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 20px;
+}
+.movieImage {
+  width: 300px;
+  max-width: 100%;
+  border-radius: 8px;
+}
+.movieDetails {
+  flex: 1;
+  min-width: 250px;
+}
